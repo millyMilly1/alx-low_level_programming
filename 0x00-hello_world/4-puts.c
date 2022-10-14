@@ -1,13 +1,11 @@
 #include <stdio.h>
+
 /**
+ *main-printing
  *
- * * main - Printing
- *
- * *
- *
- * * Return: Always 0 (Successful)
- *
- * */
+ *Return: always 0 (successful)
+ */
+
 int main(void)
 
 {
