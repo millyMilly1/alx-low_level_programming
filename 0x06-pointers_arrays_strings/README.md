@@ -1,2 +1,1 @@
-0x06-pointers arrays strings
-more pointers arrays strings 
+0x06 more pointers arrays and strings
